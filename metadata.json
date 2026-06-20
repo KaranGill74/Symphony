@@ -1,0 +1,6 @@
+{
+  "name": "Symphony",
+  "description": "A premium native music streaming application with offline access, custom playlists, downloads, dynamic search, and an admin management dashboard.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
